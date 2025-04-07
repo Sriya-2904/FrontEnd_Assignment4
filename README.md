@@ -3,7 +3,7 @@
 
 
 
-# FrontEnd_Assignment4
+# NavCraft
 
 In this Repository, it is about a mini assignment/project of how to create a drop down menu.
 In this, I'll upload the background image, HTML file and CSS file.
